@@ -45,3 +45,23 @@ img{
 .accordion-content{
     background-color: RGB(254,254,254,0.6);
 }
+.principal{
+  margin-bottom: 1%;
+}
+.texto-publicacion{
+  margin-top: 1%;
+}
+.icono-comentario{
+  font-size: 45px;
+  margin-right: 5%;
+}
+.avatar{
+  width: 70px;
+  border: 0px;
+}
+.comentario{
+  align-self: center;
+}
+.comentarios{
+  margin-bottom: 1%
+}
