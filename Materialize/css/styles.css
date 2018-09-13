@@ -1,0 +1,45 @@
+body{
+  background-image: url("../img/fondo.jpg");
+  background-attachment: fixed;
+  background-repeat: round;
+}
+.capa-transparente{
+  height: 100%;
+  background: rgba(0, 127, 255, 0.1);
+}
+#cabecera{
+  padding-top: 1%;
+}
+#logo{
+  width: 130px
+}
+nav{
+  background-color: rgba(0, 127, 255, 0);
+  box-shadow: none;
+}
+nav ul li.active {
+  background-color: rgba(0, 127, 255);
+}
+.sombra-texto{
+  text-shadow: 2px 2px 8px rgba(0, 127, 255);
+}
+.galeria{
+  width: 100%;
+}
+.publicacion{
+  margin-left: 1% !important;
+}
+.articulo{
+  padding-top: 1%;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.articulo img{
+  margin-top: 2%;
+  margin-right: 2%;
+  margin-bottom: 1%;
+  float: left;
+  width: 400px;
+}
+.sec-comentario{
+  background-color: rgba(0, 127, 255);
+}
