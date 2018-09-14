@@ -43,3 +43,20 @@ nav ul li.active {
 .sec-comentario{
   background-color: rgba(0, 127, 255);
 }
+.section{
+  background-color: rgba(255, 255, 255, 0.8);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (max-width: 768px) {
+  #contenedor-logo{
+    text-align: center;
+  }
+  .capa-transparente{
+    width: 100%;
+  }
+  #logo{
+    width: 250px;
+  }
+}
